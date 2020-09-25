@@ -26,6 +26,4 @@ import { SelectRecipeComponent } from './select-recipe/select-recipe.component';
     SharedModule
   ]
 })
-export class RecipesModule {
-
-}
+export class RecipesModule {}
